@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm happpycorn :D
+# I'm happpycorn :D
 
 - Job : Student
 - Interest : Handicraft, Program, Write
@@ -10,8 +10,8 @@
 - Favorite emoji : :D
 - Shortage : English
 
-## Project:
+# Project:
 
-# Digital mirro
-# GMTK gamejam
-# Science Fair
+## Digital mirro
+## GMTK gamejam
+## Science Fair
