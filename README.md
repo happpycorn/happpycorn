@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-# I'm happpycorn :D
+I'm happpycorn :D
 
 - 🎓Job : Student
 - 😄Interest : Handicraft, Program, Write
-- 💻Language : Python
-- 📚Learning : C#, C++, Html
-- 📷Skills : Game design, Image art, Data sort
-- 🙃Favorite emoji : :D
-- 😵Shortage : English
+- 💻Language : Python, C++, Arduino, Html, Css, Java
+- 📷Skills : Game design, Image art, IOT, Website
+
+<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&line_height=22&layout=compact&hide=less" />
 
 # Project:
 
-## Digital mirro
+## Digital mirror
 ## GMTK gamejam
-## Science Fair
+## 
