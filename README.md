@@ -2,7 +2,7 @@
 
 I'm happpycorn :D
 
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&line_height=22&layout=compact&hide=less,jupyter%20notebook)
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&layout=donut&hide=jupyter%20notebook)
 
 - 🎓Job : Student
 - 😄Interest : Handicraft, Program, Write
@@ -13,20 +13,40 @@ I'm happpycorn :D
 
 #### Esp32 Boat and Car
 
-[![DragonBoat](https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2024_DragonBoat)](https://github.com/happpycorn/2024_DragonBoat)
+<a href="https://github.com/happpycorn/2024_DragonBoat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2024_DragonBoat&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="DragonBoat">
+</a>
+<a href="https://github.com/happpycorn/Esp32Cam-Car">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Esp32Cam-Car&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Esp32Cam-Car">
+</a>
 
 #### 2023 Fhehs Run
 
-[![2023 Fhehs Run](https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2023-fhehs-run)](https://github.com/happpycorn/2023-fhehs-run)
+<a href="https://github.com/happpycorn/2023-fhehs-run">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2023-fhehs-run&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023 Fhehs Run">
+</a>
 
 #### Digital mirror
 
-[![2023 Fhehs Run](https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2023-fhehs-run)](https://github.com/happpycorn/2023-fhehs-run)
+<a href="https://github.com/happpycorn/Mirror_Line">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_Line&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_Line">
+</a>
+<a href="https://github.com/happpycorn/Mirror_detectMove">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_detectMove&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_detectMove">
+</a>
 
 #### GMTK gamejam
 
-[![2023 Fhehs Run](https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2023-fhehs-run)](https://github.com/happpycorn/2023-fhehs-run)
+<a href="https://github.com/happpycorn/2023-fhehs-run">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2023-fhehs-run&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023 Fhehs Run">
+</a>
 
 #### Notes
 
-[![2024Math_Notes](https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2024Math_Notes)](https://github.com/happpycorn/2024Math_Notes)
+<a href="https://github.com/happpycorn/2024Math_Notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2024Math_Notes&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2024Math_Notes">
+</a>
+<a href="https://github.com/happpycorn/2024Nature_Notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2024Nature_Notes&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2024Nature_Notes">
+</a>
+
