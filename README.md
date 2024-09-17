@@ -2,12 +2,8 @@
 
 I'm happpycorn :D
 
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&layout=compact&hide=jupyter%20notebook)
-
-- 🎓Job : Student
-- 😄Interest : Handicraft, Program, Write
-- 💻Language : Python, C++, Arduino, Html, Css, Java
-- 📷Skills : Game design, Image art, IOT, Website
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&layout=compact&hide=jupyter%20notebook" alt="Top Languages"> | <ul align="left"><li>🎓 <b>Job</b> : Student</li><li>😄 <b>Interest</b> : Handicraft, Program, Write</li>  <li>💻 <b>Language</b> : Python, C++, Arduino, HTML, CSS, Java</li><li>📷 <b>Skills</b> : Game design, Image art, IoT, Website</li><li>📆 <b>Next</b> : Data Base & mySQL</li> </ul> |
+| --- | --- |
 
 # Project
 
