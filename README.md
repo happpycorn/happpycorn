@@ -2,7 +2,7 @@
 
 I'm happpycorn :D
 
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&layout=donut&hide=jupyter%20notebook)
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&layout=compact&hide=jupyter%20notebook)
 
 - 🎓Job : Student
 - 😄Interest : Handicraft, Program, Write
