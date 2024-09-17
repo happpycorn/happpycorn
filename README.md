@@ -40,8 +40,8 @@ I'm happpycorn :D
 <a href="https://github.com/happpycorn/2023-fhehs-run">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Stop_Those_Dinosaurs&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023 Fhehs Run">
 </a>
-<a href="https://github.com/happpycorn/2023-fhehs-run">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Stop_Those_Dinosaurs&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023 Fhehs Run">
+<a href="https://github.com/happpycorn/Stop_Those_Dinosaurs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Stop_Those_Dinosaurs&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Stop_Those_Dinosaurs">
 </a>
 
 ## Notes
