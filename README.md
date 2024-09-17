@@ -34,6 +34,9 @@ I'm happpycorn :D
 <a href="https://github.com/happpycorn/Mirror_detectMove">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_detectMove&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_detectMove">
 </a>
+<a href="https://github.com/happpycorn/Mirror_mix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_mix&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_mix">
+</a>
 
 ## GMTK gamejam
 
