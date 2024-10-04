@@ -2,7 +2,7 @@
 
 I'm happpycorn :D
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&layout=compact&hide=jupyter%20notebook" alt="Top Languages" height="150px"><img src="info.png" alt="info" height="150px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&layout=compact" alt="Top Languages" height="150px"><img src="info.png" alt="info" height="150px">
 
 # Project
 
