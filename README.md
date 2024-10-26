@@ -39,10 +39,16 @@ I'm happpycorn :D
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2023_DragonBoat&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023_DragonBoat">
 </a>
 
-## 2023 Fhehs Run
+## Web Site
 
 <a href="https://github.com/happpycorn/2023-fhehs-run">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2023-fhehs-run&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023 Fhehs Run">
+</a>
+<a href="https://github.com/happpycorn/2024-fhehs-run">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2024-fhehs-run&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023 Fhehs Run">
+</a>
+<a href="https://github.com/happpycorn/Score_caculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Score_caculator&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023 Fhehs Run">
 </a>
 
 ## Notes
