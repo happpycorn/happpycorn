@@ -1,62 +1,76 @@
 # Hi there 👋
 
-I'm happpycorn :D
+So ... you use
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&layout=compact&hide=jupyter%20notebook" alt="Top Languages" height="150px"><img src="info.png" alt="info" height="150px">
+## Info
 
-# Project
+Hello! I'm **happpycorn** :D
 
-## Digital mirror
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=happpycorn&theme=vue-dark&layout=compact&hide=jupyter%20notebook)
 
-<a href="https://github.com/happpycorn/Mirror_Line">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_Line&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_Line">
-</a>
-<a href="https://github.com/happpycorn/Mirror_detectMove">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_detectMove&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_detectMove">
-</a>
-<a href="https://github.com/happpycorn/Mirror_mix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Mirror_mix&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Mirror_mix">
-</a>
+- **Born**: May 2007  
+- **Language**: Python  
+- **Skills**:
+    1. **Frontend Development**: HTML, XML, Game GUI, and basic LaTeX.  
+    2. **IoT**: Machine Electronics and Hardware Integration.  
+    3. **Image Art**: Creative designs for various projects.  
+    4. **Project Design**: Strategic planning and execution for diverse projects.
 
-## GMTK gamejam
+### 🌟 Dream List 🌟
 
-<a href="https://github.com/happpycorn/Escape_with_Scale">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Escape_with_Scale&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Escape_with_Scale">
-</a>
-<a href="https://github.com/happpycorn/Stop_Those_Dinosaurs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Stop_Those_Dinosaurs&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Stop_Those_Dinosaurs">
-</a>
+| Status | Goal |
+|--------|------|
+|🔲| Become the **Corn King** 🌽|
+|🔲| Build a **Telescope** 🔭|
 
-## Esp32 Boat and Car
+## Project
 
-<a href="https://github.com/happpycorn/2024_DragonBoat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2024_DragonBoat&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2024_DragonBoat">
-</a>
-<a href="https://github.com/happpycorn/Esp32Cam-Car">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Esp32Cam-Car&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Esp32Cam-Car">
-</a>
-<a href="https://github.com/happpycorn/2023_DragonBoat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2023_DragonBoat&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023_DragonBoat">
-</a>
+|Name|State|Intro|Link|Time|
+|-|-|-|-|-|
+|Discord Bot - Snail|||||
+|2025 Rocket|||||
+|Do It Dreamer|||||
+|GMTK Game Jam|||||
+|Digital Mirror|||||
+|2024 Taipel Science Fair|||||
+|Fhehs Run|||||
+|Some Little Game|||||
 
-## Website
+## Other Things
 
-<a href="https://github.com/happpycorn/2023-fhehs-run">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2023-fhehs-run&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023 Fhehs Run">
-</a>
-<a href="https://github.com/happpycorn/2024-fhehs-run">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2024-fhehs-run&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023 Fhehs Run">
-</a>
-<a href="https://github.com/happpycorn/Score_caculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=Score_caculator&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2023 Fhehs Run">
-</a>
+### My Notes
 
-## Notes
+- [**2024 Fhehs Math Note**](github)  
+    A comprehensive note for the 2024 Fhehs math class. *(This is the only note I wrote seriously!)*  
 
-<a href="https://github.com/happpycorn/2024Math_Notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2024Math_Notes&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2024Math_Notes">
-</a>
-<a href="https://github.com/happpycorn/2024Nature_Notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=happpycorn&repo=2024Nature_Notes&theme=onedark&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="2024Nature_Notes">
-</a>
+- [**APCS Practice**](github)  
+    Algorithm practice for APCS preparation.  
 
+- [**Science Notes**](github)  
+    A collection of notes and resources for science-related topics.
+
+### Q&A
+
+1. **Why corn?**
+
+    Because corn appears everywhere! The idea comes from a book called *The Omnivore's Dilemma: A Natural History of Four Meals*.
+
+1. **Will you visit cornhub?**
+
+    ~~Of course.~~
+
+1. **Where are you from?**
+
+    Taiwan. To make things simple: I'm from Taipei, Taiwan.
+
+1. **What is your school?**
+
+    I attended an experimental school for both elementary and middle school called **炫心星**. (In English, you can call it *Awesome Star*.)  
+    My high school was **Fanghe**, a… *cool* school.  
+    As for college, I'm currently studying at **NCU**.
+
+1. **Do you use Instagram?**
+
+    Emmm... Good question. I have an account, but I never really use it. (Actually, it was banned around May, about three months ago, saying I'm a robot.)
+
+    If you want to contact me, use **Discord** or **LINE** instead.
